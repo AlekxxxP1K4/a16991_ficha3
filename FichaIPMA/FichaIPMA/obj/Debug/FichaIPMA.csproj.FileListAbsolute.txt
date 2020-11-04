@@ -1,0 +1,10 @@
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\bin\Debug\FichaIPMA.exe.config
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\bin\Debug\FichaIPMA.exe
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\bin\Debug\FichaIPMA.pdb
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\bin\Debug\Newtonsoft.Json.dll
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\bin\Debug\Newtonsoft.Json.xml
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\obj\Debug\FichaIPMA.csprojAssemblyReference.cache
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\obj\Debug\FichaIPMA.csproj.CoreCompileInputs.cache
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\obj\Debug\FichaIPMA.csproj.CopyComplete
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\obj\Debug\FichaIPMA.exe
+C:\IPCA\3ºAno\ISI\FichaIPMA\FichaIPMA\obj\Debug\FichaIPMA.pdb
